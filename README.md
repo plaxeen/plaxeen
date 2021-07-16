@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Oleg Ignatov, also known as Oleg Plaxin.
+
+- 🔭 I’m currently working on develop study-portal app for Android (Java),
+- 🌱 I’m currently learning Kotlin,
+- 📫 How to reach me: [Telegram](https://t.me/plaxeen), [mail](mailto:plaxoleg@gmail.com)
 
 <!--
 **plaxeen/plaxeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

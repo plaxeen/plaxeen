@@ -1,8 +1,6 @@
 ### Hi there 👋
-My name is Oleg Ignatov, also known as Oleg Plaxin.
+My name is Oleg Ignatov.
 
-- 🔭 I’m currently working on develop study-portal app for Android (Java),
-- 🌱 I’m currently learning Kotlin,
 - 📫 How to reach me: [Telegram](https://t.me/plaxeen), [mail](mailto:plaxoleg@gmail.com)
 
 <!--

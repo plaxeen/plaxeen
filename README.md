@@ -2,7 +2,7 @@
 My name is Oleg Ignatov.
 
 - 🔭 I’m currently working on [EMG](https://emg.fm) as *Project Manager*, favourite projects is: [NewRadio](https://newradio.ru), [STUDIO 21](https://studio21.ru) as telegram channels and chat admin and bots developer.
-    Also I work at @synapse as Telegram Bots developer.
+    Also I work at @synapse-global as Telegram Bots developer.
 - 📫 How to reach me: [Telegram](https://t.me/plaxeen), [mail](mailto:plaxoleg@gmail.com)
 
 <!--
